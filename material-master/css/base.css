@@ -5782,7 +5782,7 @@ div[data-toggle="tile"] [data-ignore="tile"] {
 .header {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  background-color: #ffffff;
+  background-color:;
   color: #212121;
   min-height: 56px;
   padding-top: 4px;
